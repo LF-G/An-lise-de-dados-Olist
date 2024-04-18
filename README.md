@@ -1,4 +1,4 @@
-# An-lise-de-dados-Olist
+# Analise-de-dados-Olist
 Análise de dados de pedidos realizados na Olist Store.
 
 Este repositório contém arquivos referentes a uma análise de dados de pedidos realizados na Olist Store. A análise foi feita por mim a partir
